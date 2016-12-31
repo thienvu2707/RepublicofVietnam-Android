@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.republicofvietnam"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="25" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.android.republicofvietnam.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.android.republicofvietnam.SaigonActivity"
+            android:label="Saigon City" />
+        <activity
+            android:name="com.example.android.republicofvietnam.HaLongActivity"
+            android:label="Ha Long Bay" />
+        <activity
+            android:name="com.example.android.republicofvietnam.DaNangActivity"
+            android:label="Da Nang City" />
+        <activity
+            android:name="com.example.android.republicofvietnam.SaPaActivity"
+            android:label="SaPa" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_a8390315ddca05ae38b10392896340422f1c9c16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_fe27ec81cbcfee9bfae0ac3721952b21e0c7c4dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0a226250ab59eb74d8eda027625d397d1b3f9ad9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8bbc27f0f8c979907b521c33b773bcf5623b3c16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb61e6242faf610b644e788983b6c1b0b99a3d27">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7c3101a358a1044e465fb8040ccc882d2ad6c16b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_c29e1e2fafa4e2e462451481adba49c7bb5b3f4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9c2eeec49b9d87977f6629c3b53aafc582f99275/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5473523d37a9fe0054172ebebc39bc3b8c1690a">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_687622e217e23e4107f48f3e8803e98289d00dfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_93d2300ab9acf7de2c3f3d51897781bc268d21db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_c1942197144331eadf4e73416e3fd8f7ee1ef4f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_374eba8ac0dc7f631e311b137c73bf6208c9aae7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ae80358daa75c92eaad5543504c9d3e828c5ad90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_25f1fc7bf17c73e1b3c8a41f1d6cddbed820a2d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_8dd4c31b8a949f706143e3feac5678d43c977562/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_627e558099fd955645b460f2bb2312507ba6b5ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_98ad092f3b2f6dec05a27db498e0cb22cdfd4543/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_9f9eca60bdd0e2fd496e4d04c963952ca3d793dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fb44a05a89e18e5545d921670340a16dc8f554a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_9e87e5240c0d12316ccdcc615ae76da90de0f713/classes.dex" />
+    </item>
+
+</items>

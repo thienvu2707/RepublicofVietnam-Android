@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Republic of Vietnam</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="category_saigon">Saigon</string>
+    <string name="category_danang">Danang</string>
+    <string name="category_halong">Halong</string>
+    <string name="category_sapa">SaPa</string>
+
+    <!-- titles and descriptions of danang -->
+    <string name="danang_title1">Lady Buddha</string>
+    <string name="danang_title2">The Marble Mountain</string>
+    <string name="danang_title3">Non Nuoc Beach</string>
+    <string name="danang_title4">Monkey Mountain</string>
+    <string name="danang_title5">Dragon Bridge</string>
+    <string name="danang_title6">Green Plaza Hotel</string>
+    <string name="danang_title7">Danang Grand Mercure Hotel</string>
+
+    <string name="danang_des1">Address: Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng\n Phone: 090 587 90 79</string>
+    <string name="danang_des2">Marble Mountains is a cluster of five marble and limestone hills\n Area: 37 km²</string>
+    <string name="danang_des3">Address: Hoa Hai ward | Ngu Hanh Son, Da Nang, Vietnam</string>
+    <string name="danang_des4">mountain hold many monkey in this area locate in Danang</string>
+    <string name="danang_des5">Address: Nguyễn Văn Linh, Phước Ninh, Sơn Trà, Đà Nẵng\n Total length: 666m</string>
+    <string name="danang_des6">Address: 238 Bạch Đằng, Hải Châu, Đà Nẵng\n Phone: 0511 3223 399</string>
+    <string name="danang_des7">Address: Villas of Green Island, Hải Châu District\n Phone: 0511 3797 777</string>
+
+    <!-- titles and descriptions of saigon -->
+    <string name="saigon_title1">Independence Palace</string>
+    <string name="saigon_title2">Saigon Central Post Office</string>
+    <string name="saigon_title3">Saigon Notre‑Dame Basilica</string>
+    <string name="saigon_title4">Ben Thanh market</string>
+    <string name="saigon_title5">Saigon Municipal Theatre</string>
+    <string name="saigon_title6">Saigon Zoo</string>
+    <string name="saigon_title7">Tao Dan Park</string>
+
+    <string name="saigon_des1">This is where the president lived at Republic of Vietnam</string>
+    <string name="saigon_des2">This is the place deliver package to people</string>
+    <string name="saigon_des3">Address: Bến Nghé, District 1, Saigon\n Opened: April 11, 1880</string>
+    <string name="saigon_des4">This is one of the biggest market in Saigon</string>
+    <string name="saigon_des5">This is Saigon Opera House at france time\n Opened: January 1, 1900</string>
+    <string name="saigon_des6">Established in 1865, is Vietnam largest zoo and botanical garden</string>
+    <string name="saigon_des7">The park has many Buddhist temples</string>
+
+    <!-- titles and descriptions of halong -->
+    <string name="halong_title1">HaLong Bay</string>
+    <string name="halong_title2">Sung Sot Cave</string>
+    <string name="halong_title3">Dau Go Cave</string>
+    <string name="halong_title4">Dong Thien Cung</string>
+    <string name="halong_title5">Hon Ga Choi island</string>
+    <string name="halong_title6">HaLong Bay Novotel</string>
+    <string name="halong_title7">Starcity Hotel</string>
+
+    <string name="halong_des1">Halong bay had been approve via Unesco</string>
+    <string name="halong_des2">Its one of many majestic and popular cave in Halong</string>
+    <string name="halong_des3">Its one of many majestic and popular cave in Halong</string>
+    <string name="halong_des4">Its one of many majestic and popular cave in Halong</string>
+    <string name="halong_des5">This island similar to 2 roosters are fighting each other its the symbol of Halong</string>
+    <string name="halong_des6">Address: 160 road, ward Ha Long city, Ha Long City, Quảng Ninh Province 200000\n Phone: 033 3848 108</string>
+    <string name="halong_des7">Address: Bãi Cháy, Hạ Long, Quảng Ninh\n Phone: 033 3846 058</string>
+
+    <!-- titles and descriptions of sapa -->
+    <string name="sapa_title1">Mountain PhanXiPang</string>
+    <string name="sapa_title2">Muong Hoa Valley</string>
+    <string name="sapa_title3">Silver WaterFall</string>
+    <string name="sapa_title4">Love Waterfall</string>
+    <string name="sapa_title5">SaPa Eden Hotel</string>
+    <string name="sapa_title6">Good morning Vietnam Restaurant</string>
+    <string name="sapa_title7">Paradise View Restaurant</string>
+
+    <string name="sapa_des1">The highest in Indochina area, at 3,143 metres</string>
+    <string name="sapa_des2">Address: 01 Thac Bac Street, Sa Pả, Lào Cai 333100\n Phone: 094 356 99 90</string>
+    <string name="sapa_des3">Address: QL4D, San Sả Hồ, Sa Pa, Lào Cai\n Province: Lao Cai Province</string>
+    <string name="sapa_des4">Address: Highway 4D, Sapa 330000, Vietnam\n Phone: +84 98 526 42 67</string>
+    <string name="sapa_des5">Address: 64 Phanxipang Road, Sa Pa\n Phone: 090 428 58 85</string>
+    <string name="sapa_des6">Address: Mường Hoa, Sa Pa\n Phone: 097 768 08 42</string>
+    <string name="sapa_des7">Address: 018 Phạm Xuân Huân, Lào Cai, Sapa, Lào Cai 190000\n Phone: 020 3872 683</string>
+</resources>

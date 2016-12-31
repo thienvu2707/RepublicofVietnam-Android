@@ -1,0 +1,7 @@
+#Tue Dec 27 23:35:33 ICT 2016
+base.0=/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7c3101a358a1044e465fb8040ccc882d2ad6c16b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_687622e217e23e4107f48f3e8803e98289d00dfe/classes.dex
+base.1=/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_687622e217e23e4107f48f3e8803e98289d00dfe
+file.0=/Users/thienvu/AndroidStudioProjects/RepublicofVietnam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7c3101a358a1044e465fb8040ccc882d2ad6c16b/classes.dex

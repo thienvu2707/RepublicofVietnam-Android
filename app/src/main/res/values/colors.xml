@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E65100</color>
+
+    <color name="colorPrimaryDark">#BF360C</color>
+
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="category_saigon">#FFFF01</color>
+
+    <color name="category_danang">#00E676</color>
+
+    <color name="category_halong">#16ced4</color>
+
+    <color name="category_sapa">#CFD8DC</color>
+
+    <color name="categories_text_places">#F44336</color>
+
+    <color name="tan_background">#FFF7DA</color>
+</resources>
